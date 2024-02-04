@@ -1,0 +1,39 @@
+Report created: 
+	27/05/2023	3:10:30 AM
+
+Project name: tn.aep
+
+Source files collected to: 
+	C:\Users\danie\OneDrive\Ae\Trap Nation 2022
+
+Source files collected: All
+
+Collected comps:  
+	Main
+	Spectrum
+	Intro
+	
+Number of collected files:  4
+
+Size of collected files:  90.6 MB
+
+Collected source files: 
+	C:\Users\danie\Downloads\Main.mp4
+	C:\Users\danie\Downloads\yt1s.com - LBLVNC BTWRKS  GODMODE  Valhalla.mp3
+	C:\Users\danie\Downloads\yt1s.com - LBLVNC BTWRKS  GODMODE  Valhalla_1080pFHR.mp4
+	C:\Users\danie\OneDrive\AE Videos\733h6v-DESKTOP-DJC1DPE.mp4
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  4
+
+Effect:  Audio Spectrum
+	
+Effect:  Mirror
+	
+Effect:  Polar Coordinates
+	
+Effect:  Sound Keys
+	
+
